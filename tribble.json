@@ -1,0 +1,5 @@
+{
+  "port": 9092,
+  "health": {"type": "tcp", "start_period_secs": 120},
+  "data_path": "/var/lib/kafka/data"
+}
