@@ -1,4 +1,4 @@
-# kafka-tribble
+# tribble-example-kafka
 
 A single-node Apache Kafka (KRaft, no ZooKeeper) for [tribble](https://www.dreamhost.com),
 built from the official `apache/kafka` image.
